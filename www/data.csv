@@ -1,0 +1,19 @@
+VARIABLE,DESCRIPTION,SOURCE,RESOLUTION
+Water Coverage,% of  population covered by water supply system,Statistical interpolation from Demographic and Health Surveys (https://dhsprogram.com/data/available-datasets.cfm)  ,District
+Time To Access Urban Centre,Time taken to access an urban centre (>50k population) in minutes by land transport,Satellite imagery (https://data.humdata.org/dataset/hotosm_gha_roads),District
+Distance To Main Road,Distance in metres to a main road,Satellite imagery (https://data.humdata.org/dataset/hotosm_gha_roads),District
+Population Density,The number of people per  km2,Satellite imagery & Census (https://www.worldpop.org/geodata/listing?id=29),District
+Literacy Level,Weighted average men or women aged between 15 to 49 who can read all or part of a sentence in 2014,Statistical interpolation from DHS survey (http://spatialdata.dhsprogram.com/modeled-surfaces/#survey=GH|2014|DHS),District
+Flood Frequency,"Number of days per year an area experienced flooding, from 2014 to 2017;  • 1 is 0 to 7 days of flooding
+• 2 is 1 to 2 weeks of flooding
+• 3 is 2 weeks to 1 month of flooding
+• 4 is more than 1 month of flooding
+",Satellite imagery (https://www.whymap.org/whymap/EN/Maps_Data/Gwv/gwv_node_en.html),District
+Distance To Waterbodies,"Distance to inland waterways (lakes, rivers) in metres",Satellite imagery (http://geoportal.rcmrd.org/layers/servir%3Aafrica_water_bodies?firstname=&lastname=&institution=&email=),District
+Cholera Cases,"Cholera predicted incidences per 100,000 persons from 2010 to 2016",Statistical interpolation of incidence data (http://spatialdata.dhsprogram.com/home/),District
+% Of Poor Persons Per District,% of People living below the national poverty line per district,Ghana Statistical Service (http://www.statsghana.gov.gh/index.php),District
+Water Scarcity,"The weighted average Water use or availability; • 1 is low 
+• 2 is moderate 
+• 3 is significant
+• 4 is severe
+",Water Scarcity Atlas (https://waterscarcityatlas.org/research-data/data-and-code/),District

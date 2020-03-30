@@ -1,0 +1,217 @@
+Cholera_Cases,District,Distance_From_Main_Road,ID,Region,Time_To_Access_UrbanCentre,Water_Scarcity,Distance_to_waterbody,percpoorpersons,percwatercoverage,perc_men_lit,perc_women_lit,District_C,flood_freq,DistCode,water_scarcity
+NA,Ledzokuku / Krowor,0,306,Greater Accra,0,0.57776314,7935,4,95,91,86,Teshie,0 to 7 days of Flooding,306,Low
+100,Chereponi,3626,817,Northern,96,2.195454851,2863,35,58,31,21,Chereponi,0 to 7 days of Flooding,817,Severe
+149,Sawla/Tuna/Kalba,10565,802,Northern,130,2.157309327,3164,62,72,62,44,Sawla,0 to 7 days of Flooding,802,Severe
+173,Biakoye,4216,412,Volta,96,1.127151778,1825,31,80,79,55,Ahenkro,More than 1 month of Flooding,412,Moderate
+142,Gonja Central,8809,804,Northern,147,2.128219828,4098,60,47,34,20,Buipe,0 to 7 days of Flooding,804,Severe
+135,Pru,6224,720,Brong Ahafo,118,1.164896749,3288,42,42,42,25,Yeji,0 to 7 days of Flooding,720,Moderate
+127,Savelugu Nanton,3832,813,Northern,49,3.136860238,3122,32,86,42,23,Savelugu,0 to 7 days of Flooding,813,Severe
+96,Karaga,6672,814,Northern,75,3.157783831,2904,32,69,32,18,Karaga,0 to 7 days of Flooding,814,Severe
+135,East Gonja,9392,805,Northern,147,2.162625043,3403,83,71,39,24,Salaga,0 to 7 days of Flooding,805,Severe
+164,South Dayi,2607,409,Volta,84,1.1267941,2012,27,81,81,63,Kpeve,More than 1 month of Flooding,409,Moderate
+167,Wa East,7162,1003,Upper West,129,2.253019163,2592,83,88,45,36,Funsi,0 to 7 days of Flooding,1003,Severe
+89,Saboba,3501,816,Northern,87,1.696398203,2899,39,84,28,14,Saboba,0 to 7 days of Flooding,816,Significant
+106,Gushiegu,4814,815,Northern,64,2.249008469,3065,35,79,34,20,Gushiegu,0 to 7 days of Flooding,815,Severe
+112,Sissala East,7110,1004,Upper West,152,2.551876673,2938,47,94,38,40,Tumu,0 to 7 days of Flooding,1004,Severe
+95,Nanumba North,5792,808,Northern,70,2.051994872,3057,31,94,38,24,Bimbilia,0 to 7 days of Flooding,808,Severe
+120,Nanumba South,4981,807,Northern,47,1.884324052,3383,33,91,36,24,Wulensi,0 to 7 days of Flooding,807,Significant
+128,Wenchi,2356,714,Brong Ahafo,60,1.130150498,2945,40,84,85,74,Wenchi,0 to 7 days of Flooding,714,Moderate
+207,Tano South,1377,706,Brong Ahafo,69,1.131751884,4256,38,79,84,69,Becham,0 to 7 days of Flooding,706,Moderate
+182,Sunyani Municipal,2133,708,Brong Ahafo,36,1.129680634,4270,17,89,90,76,Sunyani,0 to 7 days of Flooding,708,Moderate
+221,Asante Akim South,1428,609,Ashanti,71,0.616458323,2313,22,82,78,58,Juaso,0 to 7 days of Flooding,609,Low
+NA,Ada East,1798,310,Greater Accra,54,0,2519,6,87,73,55,Ada Foah,1 to 2 weeks of Flooding,310,Low
+247,Shai Osu Doku,2203,309,Greater Accra,47,1.749410412,4947,53,75,78,55,Dodowa,0 to 7 days of Flooding,309,Significant
+NA,Ada West,997,316,Greater Accra,44,0,2977,11,76,71,53,Sege,1 to 2 weeks of Flooding,316,Low
+248,Ningo Prampram,1209,315,Greater Accra,23,3.720098762,2541,30,82,72,59,Prampram,0 to 7 days of Flooding,315,Severe
+156,Kasena Nankana East,2661,903,Upper East,55,3.114751582,2937,24,89,59,46,Navrongo,0 to 7 days of Flooding,903,Severe
+NA,La Dade Kotopon,0,312,Greater Accra,0,0.57776314,13943,1,95,91,81,La,0 to 7 days of Flooding,312,Low
+139,Aowin,4346,112,Western,208,0.60107368,3369,9,82,71,57,Dadieso,0 to 7 days of Flooding,112,Low
+100,Suaman,1915,120,Western,161,0.973083087,4693,6,71,66,47,Enchi,0 to 7 days of Flooding,120,Low
+93,Bia East,3458,122,Western,136,1.657752508,3494,25,68,79,42,Debiso,0 to 7 days of Flooding,122,Significant
+127,Bia West,5208,117,Western,190,1.840981101,4417,14,73,76,48,Adabokrom,0 to 7 days of Flooding,117,Significant
+103,Bodi,2550,121,Western,146,0.587721642,3337,42,79,76,50,Bodi,0 to 7 days of Flooding,121,Low
+91,Juabeso,2569,116,Western,180,0.884261946,3394,14,74,78,51,Juaboso,0 to 7 days of Flooding,116,Low
+247,Shama,957,106,Western,16,0.613385249,2305,21,95,86,81,Shama,0 to 7 days of Flooding,106,Low
+219,Wassa East,2825,107,Western,114,0.745119094,3085,25,83,74,64,Daboase,0 to 7 days of Flooding,107,Low
+246,Mpohor,1421,118,Western,52,0.624371148,2167,40,90,75,59,Mpohor,0 to 7 days of Flooding,118,Low
+141,Bunkpurugu Yonyo,2831,818,Northern,50,2.254723922,2291,54,62,47,24,Bunkpurugu,0 to 7 days of Flooding,818,Severe
+178,Wassa Amenfi West,2558,111,Western,228,0.563937559,3075,7,81,75,64,Asankrangwa,0 to 7 days of Flooding,111,Low
+214,Wassa Amenfi Central,2356,119,Western,198,0.56372095,3268,51,76,72,62,Manso Amenfi,0 to 7 days of Flooding,119,Low
+171,Mfantsiman,713,204,Central,16,1.696302772,4347,28,93,72,70,Saltpound,0 to 7 days of Flooding,204,Significant
+153,Ekumfi,278,219,Central,19,0,3528,47,91,70,60,Essarkyir,0 to 7 days of Flooding,219,Low
+213,Twifo Lower Denkyira,2752,218,Central,68,1.423981119,4392,18,81,72,67,Twifo Hemang,0 to 7 days of Flooding,218,Moderate
+167,Twifo Ati-Morkwa,2312,215,Central,108,0.563917287,3191,8,88,75,59,Twifo Praso,0 to 7 days of Flooding,215,Low
+247,Awutu Senya East Municipal,939,220,Central,13,0.935011934,5184,20,94,84,75,Kasoa,0 to 7 days of Flooding,220,Low
+224,La Nkwantanang Madina,124,313,Greater Accra,5,0.57776314,8037,3,95,94,83,Madina,0 to 7 days of Flooding,313,Low
+133,Pusiga,1358,913,Upper East,28,2.255531788,2477,43,67,48,36,Pusiga,0 to 7 days of Flooding,913,Severe
+122,Garu Tempane,4391,908,Upper East,45,2.255502548,3914,54,75,51,34,Garu,0 to 7 days of Flooding,908,Severe
+95,Bawku Municipal,1369,909,Upper East,19,2.255531788,2496,42,87,63,49,Bawku,0 to 7 days of Flooding,909,Severe
+139,North Gonja,11047,821,Northern,204,2.252407478,2751,53,81,35,22,Daboya,0 to 7 days of Flooding,821,Severe
+182,West Gonja,9010,803,Northern,175,2.011894408,3432,52,57,63,33,Damongo,0 to 7 days of Flooding,803,Severe
+132,Mion,5406,824,Northern,61,2.254368594,3056,44,88,35,17,Sang,0 to 7 days of Flooding,824,Severe
+89,Yendi Municipal,3632,810,Northern,39,1.849081122,3213,32,95,59,39,Yendi,0 to 7 days of Flooding,810,Significant
+137,Tolon,4883,812,Northern,98,2.261631435,2764,42,76,38,25,Tolon,0 to 7 days of Flooding,812,Severe
+164,Kumbumgu,5396,822,Northern,125,2.263626452,2785,32,83,45,28,Kumbumgu,0 to 7 days of Flooding,822,Severe
+133,West Mamprusi,3432,820,Northern,60,3.414403228,3318,30,87,44,32,Walewale,0 to 7 days of Flooding,820,Severe
+108,Mamprugu Moagduri,5753,826,Northern,137,2.252204982,3110,69,89,33,19,Yagaba,0 to 7 days of Flooding,826,Severe
+101,Zabzugu,4771,809,Northern,65,1.689501191,3609,35,95,28,18,Zabzugu,0 to 7 days of Flooding,809,Significant
+171,Mamprusi East,4459,819,Northern,85,3.143737304,2446,44,70,47,30,Gambaga,0 to 7 days of Flooding,819,Severe
+109,Tatale,8384,825,Northern,78,1.689867448,3978,42,83,25,16,Tatale,0 to 7 days of Flooding,825,Significant
+179,Sene East,17978,727,Brong Ahafo,307,1.245015553,2320,29,47,49,25,Kajaji,2 weeks to 1 month of Flooding,727,Moderate
+208,Sene West,13865,719,Brong Ahafo,200,1.189400478,3379,45,66,57,33,Kwame Danso,0 to 7 days of Flooding,719,Moderate
+227,Asutifi North,2279,703,Brong Ahafo,93,1.064033011,4653,35,82,85,69,Kenyase,0 to 7 days of Flooding,703,Moderate
+146,Ahafo Ano North,3101,617,Ashanti,78,0.631559312,3324,46,71,80,65,Tepa,0 to 7 days of Flooding,617,Low
+202,Asutifi South,2770,723,Brong Ahafo,78,0.653088607,3192,20,81,79,58,Hwidiem,0 to 7 days of Flooding,723,Low
+143,Techiman Municipal,1762,715,Brong Ahafo,26,1.131407876,3367,14,87,83,67,Techiman,0 to 7 days of Flooding,715,Moderate
+147,Techiman North,1643,725,Brong Ahafo,32,1.130721795,2893,16,80,82,69,Tuobodum,0 to 7 days of Flooding,725,Moderate
+224,Ga East,247,303,Greater Accra,1,0.57776314,4809,5,96,95,84,Abokobi,0 to 7 days of Flooding,303,Low
+NA,Accra Metropolis,0,304,Greater Accra,0,0.57776314,9736,2,96,90,76,Accra,0 to 7 days of Flooding,304,Low
+225,Bawku West,8948,907,Upper East,86,2.255526572,3131,67,85,53,35,Zebilla,0 to 7 days of Flooding,907,Severe
+248,Ga South,894,301,Greater Accra,14,0.57776314,3067,13,93,82,69,Mallam,0 to 7 days of Flooding,301,Low
+226,Ga West,282,302,Greater Accra,9,0.57776314,2559,9,94,89,75,Amasaman,0 to 7 days of Flooding,302,Low
+103,Banda,9066,726,Brong Ahafo,211,1.611578304,4642,77,86,75,48,Banda,1 to 2 weeks of Flooding,726,Significant
+79,Jaman North,2877,712,Brong Ahafo,102,1.683764482,5743,19,93,80,42,Sampa,0 to 7 days of Flooding,712,Significant
+104,Tain,3219,713,Brong Ahafo,92,1.132771494,4644,38,90,80,54,Nsawkaw,0 to 7 days of Flooding,713,Moderate
+190,Sekyere Afram Plains,2075,624,Ashanti,87,0.624365032,4131,28,83,84,71,Kumawu,0 to 7 days of Flooding,624,Low
+204,Sekyere Afram Plains North,7803,630,Ashanti,196,0.891004911,4311,59,79,74,56,Drobonso,0 to 7 days of Flooding,630,Low
+215,Asante Akim North,3775,629,Ashanti,95,0.621931325,3084,26,84,82,69,Agogo,0 to 7 days of Flooding,629,Low
+214,Asante Akim Central Municipal,1221,610,Ashanti,42,0.622817957,1892,11,89,85,76,Konongo,0 to 7 days of Flooding,610,Low
+252,Ga Central Municipal,659,311,Greater Accra,2,0.57776314,3609,27,96,94,80,Sowutuom,0 to 7 days of Flooding,311,Low
+129,Dormaa East,1759,705,Brong Ahafo,45,1.127850413,3237,35,90,86,62,Wamfie,0 to 7 days of Flooding,705,Moderate
+189,Krachi West,4790,416,Volta,79,1.439132721,2806,41,79,65,39,Kete Krachi,More than 1 month of Flooding,416,Moderate
+173,Krachi Nchumuru,3955,425,Volta,117,2.102015218,3699,52,78,50,30,Chinderi,1 to 2 weeks of Flooding,425,Severe
+136,Agotime Ziope,1669,407,Volta,63,0.566477902,2861,65,86,67,51,Kpetoe,0 to 7 days of Flooding,407,Low
+144,Adaklu,2681,421,Volta,71,0.805194858,2076,83,95,79,56,Adaklu Waya,0 to 7 days of Flooding,421,Low
+NA,Akatsi South,2125,405,Volta,33,0.578838041,2395,11,94,78,62,Akatsi,0 to 7 days of Flooding,405,Low
+173,Akatsi North,3578,420,Volta,65,0.565655291,2470,24,87,70,59,Ave Dakpa,0 to 7 days of Flooding,420,Low
+128,Ho Municipal,1344,408,Volta,34,0.675754711,3081,21,93,85,72,Ho,0 to 7 days of Flooding,408,Low
+172,Hohoe Municipal,1529,411,Volta,39,0.68129408,2332,31,92,87,78,Hohoe,0 to 7 days of Flooding,411,Low
+166,Ho West,3340,422,Volta,77,1.088146857,2518,39,86,84,72,Dzolo Kpuita,0 to 7 days of Flooding,422,Moderate
+147,Afadzato South,1381,423,Volta,42,0.967363324,2788,37,89,88,75,Ve Golokwati,0 to 7 days of Flooding,423,Low
+79,Berekum,2478,710,Brong Ahafo,38,1.135338373,3066,27,94,90,76,Berekum,0 to 7 days of Flooding,710,Moderate
+124,North Dayi,3804,424,Volta,90,1.1267941,1150,40,86,85,75,Anfoega,More than 1 month of Flooding,424,Moderate
+137,Kpando Municipal,2036,410,Volta,72,1.126884074,1712,32,92,87,76,Kpando,More than 1 month of Flooding,410,Moderate
+192,North Tongu,4458,419,Volta,81,1.179037912,3225,51,77,79,53,Battor,0 to 7 days of Flooding,419,Moderate
+NA,Central Tongu,2245,406,Volta,74,0.733819776,2457,33,90,79,51,Adidome,0 to 7 days of Flooding,406,Low
+216,Nsawam Adoagyiri,692,505,Eastern,10,0.57776314,3127,6,93,88,76,Nsawam,0 to 7 days of Flooding,505,Low
+224,Akwapem South,683,523,Eastern,18,0.57776314,3041,16,84,82,64,Aburi,0 to 7 days of Flooding,523,Low
+244,Denkyembour,1310,525,Eastern,55,0.56710363,2169,5,91,82,75,Akwatia,0 to 7 days of Flooding,525,Low
+227,Kwaebibirem,1393,514,Eastern,81,0.566955864,2779,16,89,80,65,Kade,0 to 7 days of Flooding,514,Low
+175,Kwahu Afram Plains South,6921,526,Eastern,188,0.641327442,3523,58,55,69,51,Tease,2 weeks to 1 month of Flooding,526,Low
+142,Kwahu Afram Plains North,8287,521,Eastern,232,1.03284555,1333,31,40,55,40,Donkorkrom,More than 1 month of Flooding,521,Moderate
+79,Jaman South,2793,711,Brong Ahafo,66,1.143310214,4070,20,88,84,55,Japekrom,0 to 7 days of Flooding,711,Moderate
+214,Suhum Municipal,874,504,Eastern,19,0.572547846,4270,6,81,82,64,Suhum,0 to 7 days of Flooding,504,Low
+222,Ayensuano,1463,524,Eastern,29,0.576600133,4085,30,73,76,59,Coaltar Teacher Mante,0 to 7 days of Flooding,524,Low
+236,East Akim,798,513,Eastern,22,0.566101762,2141,10,90,87,75,Kibi,0 to 7 days of Flooding,513,Low
+234,Upper West Akim,953,522,Eastern,24,0.574441315,3173,25,80,73,62,Adeiso,0 to 7 days of Flooding,522,Low
+247,West Akim,1462,503,Eastern,37,0.567569593,4646,11,86,78,70,Asamankese,0 to 7 days of Flooding,503,Low
+79,Dormaa Municipal,3252,704,Brong Ahafo,76,1.132317008,4264,11,87,84,63,Domaa Ahenkro,0 to 7 days of Flooding,704,Moderate
+89,Dormaa West,1410,724,Brong Ahafo,86,1.254832218,2735,10,80,84,44,Nkrankwanta,0 to 7 days of Flooding,724,Moderate
+107,Nadowli-Kaleo,1388,1005,Upper West,42,2.25229443,3281,68,92,44,29,Nadawli,0 to 7 days of Flooding,1005,Severe
+161,Daffiama Bussie,4728,1010,Upper West,89,2.329385755,2825,72,94,42,32,Issa,0 to 7 days of Flooding,1010,Severe
+97,Lawra,2054,1009,Upper West,51,2.254498005,2279,72,83,45,27,Lawra,0 to 7 days of Flooding,1009,Severe
+103,Wa Municipal,1360,1002,Upper West,22,2.252869743,3278,34,95,85,68,Wa,0 to 7 days of Flooding,1002,Severe
+137,Sunyani West,1776,709,Brong Ahafo,38,1.129711501,3601,29,93,89,72,Odumase,0 to 7 days of Flooding,709,Moderate
+95,Nandom,2560,1011,Upper West,67,2.254498005,5260,72,90,46,29,Nandom,0 to 7 days of Flooding,1011,Severe
+202,Talensi,7494,905,Upper East,65,2.255518913,3454,56,93,62,37,Tongo,0 to 7 days of Flooding,905,Severe
+251,Nabdam,3557,911,Upper East,50,2.255518913,2803,63,94,63,42,Nangode,0 to 7 days of Flooding,911,Severe
+102,Builsa South,5465,910,Upper East,84,3.215606421,3262,84,88,36,22,Fumbisi,0 to 7 days of Flooding,910,Severe
+108,Builsa North,4083,901,Upper East,52,3.379938602,3380,54,94,46,26,Sandema,0 to 7 days of Flooding,901,Severe
+115,Binduri,5919,912,Upper East,44,2.255531788,1991,43,77,53,37,Binduri,0 to 7 days of Flooding,912,Severe
+187,Asokore Mampong Municipal,0,628,Ashanti,0,0.821193635,8131,3,96,94,85,Asokore Mampong,0 to 7 days of Flooding,628,Low
+195,Kma,37,614,Ashanti,0,0.821193635,6905,5,97,95,88,Kumasi,0 to 7 days of Flooding,614,Low
+193,Ejisu Juaben,837,611,Ashanti,24,0.650420171,3731,21,89,87,77,Ejisu,0 to 7 days of Flooding,611,Low
+211,Wassa Amenfi East,2105,110,Western,137,0.563778654,3140,26,75,72,59,Wassa Akropong,0 to 7 days of Flooding,110,Low
+150,Asunafo North,2590,702,Brong Ahafo,120,1.126856446,5237,12,73,81,47,Goaso,0 to 7 days of Flooding,702,Moderate
+NA,Tema Metropolis,258,308,Greater Accra,0,0.57776314,3681,8,95,93,85,Tema,0 to 7 days of Flooding,308,Low
+NA,Ashaiman,0,307,Greater Accra,0,0.57776314,6472,4,100,99,90,Ashiaman,0 to 7 days of Flooding,307,Low
+238,Kpone Katamanso,408,314,Greater Accra,8,0.729009296,6833,3,93,90,82,Kpone,0 to 7 days of Flooding,314,Low
+112,Tamale North Sub Metro,1837,811,Northern,24,2.284120321,3056,24,93,66,47,Tamale,0 to 7 days of Flooding,811,Severe
+163,Sagnerigu,930,823,Northern,9,2.282173892,2543,29,94,75,56,Sagnerigu,0 to 7 days of Flooding,823,Severe
+224,Adenta,0,305,Greater Accra,1,0.57776314,10266,10,95,94,82,Adenta,0 to 7 days of Flooding,305,Low
+176,Nkoranza North,4777,717,Brong Ahafo,78,1.130692772,3767,31,81,80,58,Busunya,0 to 7 days of Flooding,717,Moderate
+173,Kintampo South,3813,721,Brong Ahafo,50,1.130774845,3879,78,68,78,65,Jema,0 to 7 days of Flooding,721,Moderate
+180,Tano North,2321,707,Brong Ahafo,57,1.129680634,3562,21,87,85,72,Duayaw Nkwanta,0 to 7 days of Flooding,707,Moderate
+NA,Ketu North,792,404,Volta,32,0.565655291,1688,23,89,75,59,Dzodze,0 to 7 days of Flooding,404,Low
+NA,Ketu South,1663,403,Volta,13,0.565655291,5454,15,94,86,75,Denu,0 to 7 days of Flooding,403,Low
+NA,Keta Municipal,2053,402,Volta,59,0.910330065,1387,14,88,75,64,Keta,More than 1 month of Flooding,402,Low
+162,Kadjebi,1870,414,Volta,66,1.132243273,4103,66,93,81,53,Kadjebi,0 to 7 days of Flooding,414,Moderate
+NA,South Tongu,1228,401,Volta,42,0.77261757,2762,25,84,79,51,Sogakope,0 to 7 days of Flooding,401,Low
+124,Jirapa,2952,1006,Upper West,59,2.316400635,3559,71,90,48,32,Jirapa,0 to 7 days of Flooding,1006,Severe
+194,Jasikan,1294,413,Volta,53,0.669743245,2993,39,91,86,69,Jasikan,0 to 7 days of Flooding,413,Low
+180,Krachi East,9755,415,Volta,171,1.193972242,1955,50,55,41,23,Dambai,More than 1 month of Flooding,415,Moderate
+182,Nkwanta South,4225,417,Volta,111,1.433518486,4180,31,88,49,40,Nkwanta,0 to 7 days of Flooding,417,Moderate
+232,Afigya Kwabre,773,619,Ashanti,24,0.82410997,2884,4,84,85,74,Kodie,0 to 7 days of Flooding,619,Low
+198,Atwima Kwanwoma,853,613,Ashanti,16,0.821193635,4496,5,93,88,77,Foase,0 to 7 days of Flooding,613,Low
+236,Afigya Sekyere,910,621,Ashanti,47,0.769209605,4158,25,75,83,70,Agona,0 to 7 days of Flooding,621,Low
+181,Sekyere East,1419,623,Ashanti,46,0.624365032,4540,17,80,79,62,Effiduase,0 to 7 days of Flooding,623,Low
+236,Sekyere Central,4242,625,Ashanti,133,0.893131355,2831,23,85,80,70,Nsuta,0 to 7 days of Flooding,625,Low
+218,Offinso North,3866,627,Ashanti,78,1.133131855,3823,29,81,79,63,Akumadan,0 to 7 days of Flooding,627,Moderate
+239,Offinso Municipal,1508,618,Ashanti,46,0.849730336,3076,40,76,84,75,Offinso,0 to 7 days of Flooding,618,Low
+144,Obuasi Municipal,1068,605,Ashanti,9,0.572480142,3419,5,95,89,78,Obuasi,0 to 7 days of Flooding,605,Low
+206,Kwabre,185,620,Ashanti,10,0.799132568,6906,6,95,91,84,Mamponteng,0 to 7 days of Flooding,620,Low
+207,Ejura Sekye Dumase,4080,626,Ashanti,98,1.130696056,2788,46,87,81,70,Ejura,0 to 7 days of Flooding,626,Moderate
+219,Atwima Nwabiagya,1085,615,Ashanti,23,0.821193635,3544,13,93,88,79,Nkawie,0 to 7 days of Flooding,615,Low
+217,Atwima Mponua,2098,601,Ashanti,99,0.795762351,3294,13,79,76,45,Nyinahin,0 to 7 days of Flooding,601,Low
+167,Adansi South,1879,604,Ashanti,73,0.569100561,2944,21,84,76,55,New Edubiase,0 to 7 days of Flooding,604,Low
+164,Adansi North,1467,606,Ashanti,54,0.569578616,2588,18,86,80,54,Fomena,0 to 7 days of Flooding,606,Low
+185,Bosome Freho,1607,608,Ashanti,82,0.565400958,2616,37,76,79,56,Asiwa,0 to 7 days of Flooding,608,Low
+196,Ahafo Ano South,1753,616,Ashanti,76,0.822126029,4281,14,70,78,60,Mankranso,0 to 7 days of Flooding,616,Low
+181,Bekwai Municipal,1187,607,Ashanti,27,0.729471906,5075,29,88,82,59,Bekwai,0 to 7 days of Flooding,607,Low
+86,Lambussie Karni,2865,1008,Upper West,96,2.269459287,4530,72,90,43,28,Lambussie,0 to 7 days of Flooding,1008,Severe
+193,Bosomtwe /Atwima / Kwanwoma,899,612,Ashanti,23,0.754407245,3704,6,87,86,73,Kuntanase,1 to 2 weeks of Flooding,612,Low
+239,Mampong Municipal,2291,622,Ashanti,95,0.885284759,2679,29,87,82,75,Mampong,0 to 7 days of Flooding,622,Low
+161,Ajumako-Enyan-Esiam,844,205,Central,33,1.608722799,3736,12,89,74,62,Ajumako,0 to 7 days of Flooding,205,Significant
+169,Gomoa West,637,206,Central,25,0.452637756,4317,22,93,75,64,Apam,0 to 7 days of Flooding,206,Low
+178,Agona West,1073,211,Central,34,0.56762594,3676,4,88,76,69,Swedru,0 to 7 days of Flooding,211,Low
+225,Agona East,767,210,Central,24,0.56762594,3703,25,89,76,70,Nsaba,0 to 7 days of Flooding,210,Low
+187,Assin North,2810,214,Central,52,0.564617465,3320,24,90,72,58,Assin Fosu,0 to 7 days of Flooding,214,Low
+205,Assin South,3903,213,Central,68,1.296394889,4295,23,84,71,64,Nsuaem Kyekyewere,0 to 7 days of Flooding,213,Moderate
+158,Asikuma / Odoben / Brakwa,2185,212,Central,62,0.566637084,3607,24,83,73,63,Breman Asikuma,0 to 7 days of Flooding,212,Low
+222,Effutu,539,207,Central,9,0,3212,11,95,84,78,Winneba,0 to 7 days of Flooding,207,Low
+234,Bolgatanga Municipal,3200,904,Upper East,24,2.255518913,1855,28,96,76,63,Bolgatanga,0 to 7 days of Flooding,904,Severe
+222,Gomoa East,1163,208,Central,16,1.062872976,4071,14,94,80,71,Afransie,0 to 7 days of Flooding,208,Moderate
+191,Abura / Asebu / Kwamankese,1131,203,Central,27,1.696302772,3275,26,91,72,72,Abora Dunkwa,0 to 7 days of Flooding,203,Significant
+255,Jomoro,4814,101,Western,145,0.555817466,3074,30,81,69,43,Half Assini,0 to 7 days of Flooding,101,Low
+255,Ellembelle,4790,102,Western,175,0.666230598,2791,19,85,76,44,Nkroful,0 to 7 days of Flooding,102,Low
+198,Prestea / Huni Valley,2537,109,Western,151,0.563707444,3433,17,89,84,76,Prestea,0 to 7 days of Flooding,109,Low
+255,Ahanta West,1018,104,Western,35,0,2646,19,92,77,59,Agona,0 to 7 days of Flooding,104,Low
+203,Nzema East,3418,103,Western,184,0.665772817,3403,31,89,74,49,Axim,0 to 7 days of Flooding,103,Low
+223,Tarkwa Nsuaem,2339,108,Western,92,0.602936973,4047,14,95,88,78,Tarkwa,0 to 7 days of Flooding,108,Low
+162,Sefwi Akontombra,2626,113,Western,195,0.564824275,4594,21,83,78,60,Akontombra,0 to 7 days of Flooding,113,Low
+NA,Sekondi Takoradi,785,105,Western,10,0.833321379,2990,12,95,90,82,Sekondi,0 to 7 days of Flooding,105,Low
+250,Bongo,4139,906,Upper East,40,2.255518913,2520,67,92,54,43,Bongo,0 to 7 days of Flooding,906,Severe
+232,Akyem Mansa,1816,515,Eastern,62,0.565407089,3393,38,86,76,58,Akim Ofoase,0 to 7 days of Flooding,515,Low
+240,Kwahu South,1974,519,Eastern,69,0.571163835,2590,47,76,76,73,Atibie,1 to 2 weeks of Flooding,519,Low
+245,Birim Municipal,1483,502,Eastern,28,0.567431966,3387,22,91,78,74,Akim Oda,0 to 7 days of Flooding,502,Low
+243,Upper Manya,3704,511,Eastern,80,0.565727275,2611,43,81,77,61,Asesewa,2 weeks to 1 month of Flooding,511,Low
+242,Birim South,1994,501,Eastern,38,0.566443977,3544,27,92,78,71,Swedru,0 to 7 days of Flooding,501,Low
+230,Akwapem North,1055,506,Eastern,24,0.575799594,3496,19,86,84,69,Akropong,0 to 7 days of Flooding,506,Low
+246,Yilo Krobo,1502,508,Eastern,28,0.734356568,3087,16,88,85,73,Somanya,0 to 7 days of Flooding,508,Low
+239,Atiwa,1979,517,Eastern,78,0.566914609,3717,27,90,81,69,Kwabeng,0 to 7 days of Flooding,517,Low
+229,New Juaben Municipal,578,507,Eastern,10,0.565764308,2490,4,95,93,85,Koforidua,0 to 7 days of Flooding,507,Low
+240,Fanteakwa,2025,512,Eastern,89,0.565647825,2779,18,81,82,73,Begoro,1 to 2 weeks of Flooding,512,Low
+86,Kasena Nankana West,3634,902,Upper East,74,3.259443819,2464,13,90,50,36,Paga,0 to 7 days of Flooding,902,Severe
+224,Birim North,1264,516,Eastern,66,0.566429625,2478,14,89,79,61,New Abirem,0 to 7 days of Flooding,516,Low
+231,Asuogyaman,2861,510,Eastern,73,1.126963326,2455,19,83,80,65,Atimpoku,More than 1 month of Flooding,510,Moderate
+235,Kwahu East,1790,520,Eastern,54,0.571968853,2934,36,84,80,72,Abetifi,0 to 7 days of Flooding,520,Low
+231,Kwahu West,1390,518,Eastern,30,0.569905481,3038,18,93,84,76,Nkawkaw,0 to 7 days of Flooding,518,Low
+204,Sefwi Bibiani-Anhwiaso Bekwai,1230,115,Western,137,0.564504802,3707,11,84,80,51,Bibiani,0 to 7 days of Flooding,115,Low
+145,Upper Denkyira East,2454,216,Central,83,0.563709497,4493,30,83,76,58,Dunkwa,0 to 7 days of Flooding,216,Low
+167,Amansie Central,2042,603,Ashanti,68,0.572480142,3222,20,82,76,49,Jacobu,0 to 7 days of Flooding,603,Low
+181,Amansie West,1032,602,Ashanti,83,0.769040012,3680,9,85,76,43,Manso Nkwanta,0 to 7 days of Flooding,602,Low
+213,Upper Denkyira West,972,217,Central,97,0.567476451,3646,3,85,74,49,Diaso,0 to 7 days of Flooding,217,Low
+NA,Cape Coast Metro,563,202,Central,7,1.696302772,3257,2,95,83,87,Cape Coast,0 to 7 days of Flooding,202,Significant
+138,Wa West,2950,1001,Upper West,59,2.252181133,3439,91,87,41,31,Wechiau,0 to 7 days of Flooding,1001,Severe
+252,Komenda Edna Eguafo / Abirem,901,201,Central,23,1.437169147,4298,18,85,66,62,Elmina,0 to 7 days of Flooding,201,Moderate
+171,Sefwi-Wiawso,2498,114,Western,135,0.581756341,3005,18,84,82,57,Sefwi Wiawso,0 to 7 days of Flooding,114,Low
+175,Asunafo South,2207,701,Brong Ahafo,107,0.842571585,4667,14,77,77,44,Kukuom,0 to 7 days of Flooding,701,Low
+222,Nkoranza South,3890,716,Brong Ahafo,66,1.133306805,3747,36,82,78,62,Nkoranza,0 to 7 days of Flooding,716,Moderate
+143,Bole,10433,801,Northern,168,1.468068083,4446,78,65,75,57,Bole,0 to 7 days of Flooding,801,Moderate
+249,Lower Manya,1519,509,Eastern,36,0.948643368,4149,15,92,88,78,Odumase,0 to 7 days of Flooding,509,Low
+146,Kintampo North,11593,722,Brong Ahafo,113,1.39996769,3515,32,61,72,60,Kintampo,0 to 7 days of Flooding,722,Moderate
+176,Atebubu Amantin,4791,718,Brong Ahafo,66,1.129014655,3393,33,82,73,46,Atebubu,0 to 7 days of Flooding,718,Moderate
+129,Kpandai,3938,806,Northern,84,2.005039813,5123,76,84,47,24,Kpandai,0 to 7 days of Flooding,806,Severe
+152,Nkwanta North,6572,418,Volta,64,1.689346396,3485,49,63,24,20,Kpasa,0 to 7 days of Flooding,418,Significant
+NA,Sissala West,NA,1007,Upper West,NA,NA,NA,NA,93,41,32,Gwollu,0 to 7 days of Flooding,1007,Severe
+NA,Awutu Senya West,NA,209,Central,NA,NA,NA,NA,91,72,62,Breku,0 to 7 days of Flooding,209,Low
